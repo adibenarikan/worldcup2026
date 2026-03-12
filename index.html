@@ -24,7 +24,7 @@
     var btn = document.getElementById("calBtn");
 
     if (isAndroid) {
-      btn.href = "https://www.google.com/calendar/render?cid=" + encodeURIComponent(icsUrl);
+      btn.href = btn.href = icsUrl;
     } else {
       btn.href = "webcal://adibenarikan.github.io/worldcup2026/worldcup2026.ics";
     }
