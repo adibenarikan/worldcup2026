@@ -4,24 +4,31 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>משחקי מונדיאל 2026 - כאן</title>
+  <link href="https://fonts.googleapis.com/css2?family=Heebo:wght@400;500&display=swap" rel="stylesheet">
 </head>
-<body style="margin: 0; font-family: sans-serif; direction: rtl;">
+<body style="margin: 0; font-family: 'Heebo', sans-serif; direction: rtl;">
 
   <div style="max-width: 480px; margin: 0 auto; padding: 2.5rem 1.5rem; text-align: center;">
     <div style="font-size: 48px; margin-bottom: 1rem;">⚽</div>
     <h1 style="font-size: 22px; font-weight: 500; margin: 0 0 1rem;">משחקי מונדיאל 2026 ביומן שלכם</h1>
     <p style="font-size: 16px; color: #666; line-height: 1.7; margin: 0 0 2rem;">הוסיפו את כל משחקי המונדיאל ליומן שלכם — עם שעות לפי ישראל, ערוץ שידור וקישורים לעמודי המשחקים.</p>
-    <button onclick="addCalendar()" style="display: block; width: 100%; background: #7F77DD; color: #fff; font-size: 17px; font-weight: 500; padding: 16px 24px; border-radius: 12px; border: none; cursor: pointer;">
+    <a id="calBtn" href="#" style="display: block; background: #7F77DD; color: #fff; font-size: 17px; font-weight: 500; padding: 16px 24px; border-radius: 12px; text-decoration: none;">
       להורדת היומן
-    </button>
+    </a>
     <p style="font-size: 13px; color: #999; margin-top: 1rem;">עובד על iPhone ואנדרואיד</p>
   </div>
 
   <script>
-    function addCalendar() {
-      var icsUrl = "https://adibenarikan.github.io/worldcup2026/worldcup2026.ics";
-      var isAndroid = /Android/i.test(navigator.userAgent);
-      var isIOS = /iPad|iPhone|iPod/i.test(navigator.userAgent);
+    var icsUrl = "https://adibenarikan.github.io/worldcup2026/worldcup2026.ics";
+    var isAndroid = /Android/i.test(navigator.userAgent);
+    var btn = document.getElementById("calBtn");
 
-      if (isAndroid) {
-        wind
+    if (isAndroid) {
+      btn.href = "https://www.google.com/calendar/render?cid=" + encodeURIComponent(icsUrl);
+    } else {
+      btn.href = "webcal://adibenarikan.github.io/worldcup2026/worldcup2026.ics";
+    }
+  </script>
+
+</body>
+</html>
