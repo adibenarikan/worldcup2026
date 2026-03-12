@@ -1,0 +1,1048 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//KAN//World Cup 2026//HE
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:לוח משחקי מונדיאל כאן 2026
+X-WR-TIMEZONE:Asia/Jerusalem
+BEGIN:VEVENT
+UID:kan-wc2026-match-1@kan.org.il
+DTSTAMP:20260312T200109
+DTSTART;TZID=Asia/Jerusalem:20260611T220000
+DTEND;TZID=Asia/Jerusalem:20260612T000000
+SUMMARY:⚽ מקסיקו - דרום אפריקה | כאן 11
+DESCRIPTION:שלב הבתים | בית 1\n11 יוני 2026\, שעה 22:00\nמקסיקו סיטי\, אצטקה\nשידור חי בכאן 11
+LOCATION:מקסיקו סיטי\, אצטקה
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:kan-wc2026-match-2@kan.org.il
+DTSTAMP:20260312T200109
+DTSTART;TZID=Asia/Jerusalem:20260612T050000
+DTEND;TZID=Asia/Jerusalem:20260612T070000
+SUMMARY:⚽ קוריאה הדרומית - פלייאוף אופ"א 4 | כאן 11
+DESCRIPTION:שלב הבתים | בית 1\n12 יוני 2026\, שעה 05:00\nגוואדלחרה\, אקרון\nשידור חי בכאן 11
+LOCATION:גוואדלחרה\, אקרון
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:kan-wc2026-match-3@kan.org.il
+DTSTAMP:20260312T200109
+DTSTART;TZID=Asia/Jerusalem:20260612T220000
+DTEND;TZID=Asia/Jerusalem:20260613T000000
+SUMMARY:⚽ קנדה - פלייאוף אופ"א 1 | כאן 11
+DESCRIPTION:שלב הבתים | בית 2\n12 יוני 2026\, שעה 22:00\nטורונטו\, בי.אם.או פילד\nשידור חי בכאן 11
+LOCATION:טורונטו\, בי.אם.או פילד
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:kan-wc2026-match-4@kan.org.il
+DTSTAMP:20260312T200109
+DTSTART;TZID=Asia/Jerusalem:20260613T040000
+DTEND;TZID=Asia/Jerusalem:20260613T060000
+SUMMARY:⚽ ארצות הברית - פרגוואי | כאן BOX
+DESCRIPTION:שלב הבתים | בית 4\n13 יוני 2026\, שעה 04:00\nלוס אנג'לס\, סו-פיי\nשידור חי בכאן BOX
+LOCATION:לוס אנג'לס\, סו-פיי
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:kan-wc2026-match-5@kan.org.il
+DTSTAMP:20260312T200109
+DTSTART;TZID=Asia/Jerusalem:20260613T070000
+DTEND;TZID=Asia/Jerusalem:20260613T090000
+SUMMARY:⚽ אוסטרליה - פלייאוף אופ"א 3 | כאן BOX
+DESCRIPTION:שלב הבתים | בית 4\n13 יוני 2026\, שעה 07:00\nונקובר\, בי.סי פלייס\nשידור חי בכאן BOX
+LOCATION:ונקובר\, בי.סי פלייס
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:kan-wc2026-match-6@kan.org.il
+DTSTAMP:20260312T200109
+DTSTART;TZID=Asia/Jerusalem:20260613T220000
+DTEND;TZID=Asia/Jerusalem:20260614T000000
+SUMMARY:⚽ קטר - שווייץ | כאן 11
+DESCRIPTION:שלב הבתים | בית 2\n13 יוני 2026\, שעה 22:00\nסן פרנסיסקו\, ליוואיס\nשידור חי בכאן 11
+LOCATION:סן פרנסיסקו\, ליוואיס
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:kan-wc2026-match-7@kan.org.il
+DTSTAMP:20260312T200109
+DTSTART;TZID=Asia/Jerusalem:20260614T010000
+DTEND;TZID=Asia/Jerusalem:20260614T030000
+SUMMARY:⚽ ברזיל - מרוקו | כאן 11
+DESCRIPTION:שלב הבתים | בית 3\n14 יוני 2026\, שעה 01:00\nניו יורק - ניו ג'רזי\, מטלייף\nשידור חי בכאן 11
+LOCATION:ניו יורק - ניו ג'רזי\, מטלייף
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:kan-wc2026-match-8@kan.org.il
+DTSTAMP:20260312T200109
+DTSTART;TZID=Asia/Jerusalem:20260614T040000
+DTEND;TZID=Asia/Jerusalem:20260614T060000
+SUMMARY:⚽ האיטי - סקוטלנד | כאן BOX
+DESCRIPTION:שלב הבתים | בית 3\n14 יוני 2026\, שעה 04:00\nבוסטון\, ג'ילט\nשידור חי בכאן BOX
+LOCATION:בוסטון\, ג'ילט
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:kan-wc2026-match-9@kan.org.il
+DTSTAMP:20260312T200109
+DTSTART;TZID=Asia/Jerusalem:20260614T200000
+DTEND;TZID=Asia/Jerusalem:20260614T220000
+SUMMARY:⚽ גרמניה - קוראסאו | כאן 11
+DESCRIPTION:שלב הבתים | בית 5\n14 יוני 2026\, שעה 20:00\nיוסטון\, NRG\nשידור חי בכאן 11
+LOCATION:יוסטון\, NRG
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:kan-wc2026-match-10@kan.org.il
+DTSTAMP:20260312T200109
+DTSTART;TZID=Asia/Jerusalem:20260614T230000
+DTEND;TZID=Asia/Jerusalem:20260615T010000
+SUMMARY:⚽ הולנד - יפן | כאן 11
+DESCRIPTION:שלב הבתים | בית 6\n14 יוני 2026\, שעה 23:00\nדאלאס\, AT&T\nשידור חי בכאן 11
+LOCATION:דאלאס\, AT&T
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:kan-wc2026-match-11@kan.org.il
+DTSTAMP:20260312T200109
+DTSTART;TZID=Asia/Jerusalem:20260615T020000
+DTEND;TZID=Asia/Jerusalem:20260615T040000
+SUMMARY:⚽ חוף השנהב - אקוודור | כאן BOX
+DESCRIPTION:שלב הבתים | בית 5\n15 יוני 2026\, שעה 02:00\nפילדלפיה\, לינקולן\nשידור חי בכאן BOX\nעמוד המשחק: https://www.kan.org.il/
+LOCATION:פילדלפיה\, לינקולן
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:kan-wc2026-match-12@kan.org.il
+DTSTAMP:20260312T200109
+DTSTART;TZID=Asia/Jerusalem:20260615T050000
+DTEND;TZID=Asia/Jerusalem:20260615T070000
+SUMMARY:⚽ פלייאוף אופ"א 2 - תוניסיה | כאן BOX
+DESCRIPTION:שלב הבתים | בית 6\n15 יוני 2026\, שעה 05:00\nמונטריי\, BBVA\nשידור חי בכאן BOX
+LOCATION:מונטריי\, BBVA
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:kan-wc2026-match-13@kan.org.il
+DTSTAMP:20260312T200109
+DTSTART;TZID=Asia/Jerusalem:20260615T190000
+DTEND;TZID=Asia/Jerusalem:20260615T210000
+SUMMARY:⚽ ספרד - כף ורדה | כאן 11
+DESCRIPTION:שלב הבתים | בית 8\n15 יוני 2026\, שעה 19:00\nאטלנטה\, מרצדס בנץ\nשידור חי בכאן 11
+LOCATION:אטלנטה\, מרצדס בנץ
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:kan-wc2026-match-14@kan.org.il
+DTSTAMP:20260312T200109
+DTSTART;TZID=Asia/Jerusalem:20260615T220000
+DTEND;TZID=Asia/Jerusalem:20260616T000000
+SUMMARY:⚽ בלגיה - מצרים | כאן 11
+DESCRIPTION:שלב הבתים | בית 7\n15 יוני 2026\, שעה 22:00\nסיאטל\, לומן\nשידור חי בכאן 11
+LOCATION:סיאטל\, לומן
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:kan-wc2026-match-15@kan.org.il
+DTSTAMP:20260312T200109
+DTSTART;TZID=Asia/Jerusalem:20260616T010000
+DTEND;TZID=Asia/Jerusalem:20260616T030000
+SUMMARY:⚽ ערב הסעודית - אורוגוואי | כאן BOX
+DESCRIPTION:שלב הבתים | בית 8\n16 יוני 2026\, שעה 01:00\nמיאמי\, הארד רוק\nשידור חי בכאן BOX
+LOCATION:מיאמי\, הארד רוק
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:kan-wc2026-match-16@kan.org.il
+DTSTAMP:20260312T200109
+DTSTART;TZID=Asia/Jerusalem:20260616T040000
+DTEND;TZID=Asia/Jerusalem:20260616T060000
+SUMMARY:⚽ איראן - ניו זילנד | כאן BOX
+DESCRIPTION:שלב הבתים | בית 7\n16 יוני 2026\, שעה 04:00\nלוס אנג'לס\, סו-פיי\nשידור חי בכאן BOX
+LOCATION:לוס אנג'לס\, סו-פיי
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:kan-wc2026-match-17@kan.org.il
+DTSTAMP:20260312T200109
+DTSTART;TZID=Asia/Jerusalem:20260616T070000
+DTEND;TZID=Asia/Jerusalem:20260616T090000
+SUMMARY:⚽ אוסטריה - ירדן | כאן BOX
+DESCRIPTION:שלב הבתים | בית 10\n16 יוני 2026\, שעה 07:00\nסן פרנסיסקו\, ליוואיס\nשידור חי בכאן BOX
+LOCATION:סן פרנסיסקו\, ליוואיס
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:kan-wc2026-match-18@kan.org.il
+DTSTAMP:20260312T200109
+DTSTART;TZID=Asia/Jerusalem:20260616T220000
+DTEND;TZID=Asia/Jerusalem:20260617T000000
+SUMMARY:⚽ צרפת - סנגל | כאן 11
+DESCRIPTION:שלב הבתים | בית 9\n16 יוני 2026\, שעה 22:00\nניו יורק - ניו ג'רזי\, מטלייף\nשידור חי בכאן 11
+LOCATION:ניו יורק - ניו ג'רזי\, מטלייף
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:kan-wc2026-match-19@kan.org.il
+DTSTAMP:20260312T200109
+DTSTART;TZID=Asia/Jerusalem:20260617T010000
+DTEND;TZID=Asia/Jerusalem:20260617T030000
+SUMMARY:⚽ פלייאוף בין יבשתי 2 - נורווגיה | כאן BOX
+DESCRIPTION:שלב הבתים | בית 9\n17 יוני 2026\, שעה 01:00\nבוסטון\, ג'ילט\nשידור חי בכאן BOX
+LOCATION:בוסטון\, ג'ילט
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:kan-wc2026-match-20@kan.org.il
+DTSTAMP:20260312T200109
+DTSTART;TZID=Asia/Jerusalem:20260617T040000
+DTEND;TZID=Asia/Jerusalem:20260617T060000
+SUMMARY:⚽ ארגנטינה - אלג'יריה | כאן 11
+DESCRIPTION:שלב הבתים | בית 10\n17 יוני 2026\, שעה 04:00\nקנזס סיטי\, ארוהד\nשידור חי בכאן 11
+LOCATION:קנזס סיטי\, ארוהד
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:kan-wc2026-match-21@kan.org.il
+DTSTAMP:20260312T200109
+DTSTART;TZID=Asia/Jerusalem:20260617T200000
+DTEND;TZID=Asia/Jerusalem:20260617T220000
+SUMMARY:⚽ פורטוגל - פלייאוף בין יבשתי 1 | כאן 11
+DESCRIPTION:שלב הבתים | בית 12\n17 יוני 2026\, שעה 20:00\nיוסטון\, NRG\nשידור חי בכאן 11
+LOCATION:יוסטון\, NRG
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:kan-wc2026-match-22@kan.org.il
+DTSTAMP:20260312T200109
+DTSTART;TZID=Asia/Jerusalem:20260617T230000
+DTEND;TZID=Asia/Jerusalem:20260618T010000
+SUMMARY:⚽ אנגליה - קרואטיה | כאן 11
+DESCRIPTION:שלב הבתים | בית 11\n17 יוני 2026\, שעה 23:00\nדאלאס\, AT&T\nשידור חי בכאן 11
+LOCATION:דאלאס\, AT&T
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:kan-wc2026-match-23@kan.org.il
+DTSTAMP:20260312T200109
+DTSTART;TZID=Asia/Jerusalem:20260618T020000
+DTEND;TZID=Asia/Jerusalem:20260618T040000
+SUMMARY:⚽ גאנה - פנמה | כאן BOX
+DESCRIPTION:שלב הבתים | בית 11\n18 יוני 2026\, שעה 02:00\nטורונטו\, בי.אם.או פילד\nשידור חי בכאן BOX
+LOCATION:טורונטו\, בי.אם.או פילד
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:kan-wc2026-match-24@kan.org.il
+DTSTAMP:20260312T200109
+DTSTART;TZID=Asia/Jerusalem:20260618T050000
+DTEND;TZID=Asia/Jerusalem:20260618T070000
+SUMMARY:⚽ אוזבקיסטן - קולומביה | כאן BOX
+DESCRIPTION:שלב הבתים | בית 12\n18 יוני 2026\, שעה 05:00\nמקסיקו סיטי\, אצטקה\nשידור חי בכאן BOX
+LOCATION:מקסיקו סיטי\, אצטקה
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:kan-wc2026-match-25@kan.org.il
+DTSTAMP:20260312T200109
+DTSTART;TZID=Asia/Jerusalem:20260618T190000
+DTEND;TZID=Asia/Jerusalem:20260618T210000
+SUMMARY:⚽ פלייאוף אופ"א 4 - דרום אפריקה | כאן 11
+DESCRIPTION:שלב הבתים | בית 1\n18 יוני 2026\, שעה 19:00\nאטלנטה\, מרצדס בנץ\nשידור חי בכאן 11
+LOCATION:אטלנטה\, מרצדס בנץ
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:kan-wc2026-match-26@kan.org.il
+DTSTAMP:20260312T200109
+DTSTART;TZID=Asia/Jerusalem:20260618T220000
+DTEND;TZID=Asia/Jerusalem:20260619T000000
+SUMMARY:⚽ שווייץ - פלייאוף אופ"א 1 | כאן 11
+DESCRIPTION:שלב הבתים | בית 2\n18 יוני 2026\, שעה 22:00\nלוס אנג'לס\, סו-פיי\nשידור חי בכאן 11
+LOCATION:לוס אנג'לס\, סו-פיי
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:kan-wc2026-match-27@kan.org.il
+DTSTAMP:20260312T200109
+DTSTART;TZID=Asia/Jerusalem:20260619T010000
+DTEND;TZID=Asia/Jerusalem:20260619T030000
+SUMMARY:⚽ קנדה - קטר | כאן BOX
+DESCRIPTION:שלב הבתים | בית 2\n19 יוני 2026\, שעה 01:00\nונקובר\, בי.סי פלייס\nשידור חי בכאן BOX
+LOCATION:ונקובר\, בי.סי פלייס
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:kan-wc2026-match-28@kan.org.il
+DTSTAMP:20260312T200109
+DTSTART;TZID=Asia/Jerusalem:20260619T040000
+DTEND;TZID=Asia/Jerusalem:20260619T060000
+SUMMARY:⚽ מקסיקו - קוריאה הדרומית | כאן BOX
+DESCRIPTION:שלב הבתים | בית 1\n19 יוני 2026\, שעה 04:00\nגוואדלחרה\, אקרון\nשידור חי בכאן BOX
+LOCATION:גוואדלחרה\, אקרון
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:kan-wc2026-match-29@kan.org.il
+DTSTAMP:20260312T200109
+DTSTART;TZID=Asia/Jerusalem:20260619T070000
+DTEND;TZID=Asia/Jerusalem:20260619T090000
+SUMMARY:⚽ פלייאוף אופ"א 3 - פרגוואי | כאן BOX
+DESCRIPTION:שלב הבתים | בית 4\n19 יוני 2026\, שעה 07:00\nסן פרנסיסקו\, ליוואיס\nשידור חי בכאן BOX
+LOCATION:סן פרנסיסקו\, ליוואיס
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:kan-wc2026-match-30@kan.org.il
+DTSTAMP:20260312T200109
+DTSTART;TZID=Asia/Jerusalem:20260619T220000
+DTEND;TZID=Asia/Jerusalem:20260620T000000
+SUMMARY:⚽ ארצות הברית - אוסטרליה | כאן 11
+DESCRIPTION:שלב הבתים | בית 4\n19 יוני 2026\, שעה 22:00\nסיאטל\, לומן\nשידור חי בכאן 11
+LOCATION:סיאטל\, לומן
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:kan-wc2026-match-31@kan.org.il
+DTSTAMP:20260312T200109
+DTSTART;TZID=Asia/Jerusalem:20260620T010000
+DTEND;TZID=Asia/Jerusalem:20260620T030000
+SUMMARY:⚽ סקוטלנד - מרוקו | כאן BOX
+DESCRIPTION:שלב הבתים | בית 3\n20 יוני 2026\, שעה 01:00\nבוסטון\, ג'ילט\nשידור חי בכאן BOX
+LOCATION:בוסטון\, ג'ילט
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:kan-wc2026-match-32@kan.org.il
+DTSTAMP:20260312T200109
+DTSTART;TZID=Asia/Jerusalem:20260620T040000
+DTEND;TZID=Asia/Jerusalem:20260620T060000
+SUMMARY:⚽ ברזיל - האיטי | כאן BOX
+DESCRIPTION:שלב הבתים | בית 3\n20 יוני 2026\, שעה 04:00\nפילדלפיה\, לינקולן\nשידור חי בכאן BOX
+LOCATION:פילדלפיה\, לינקולן
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:kan-wc2026-match-33@kan.org.il
+DTSTAMP:20260312T200109
+DTSTART;TZID=Asia/Jerusalem:20260620T070000
+DTEND;TZID=Asia/Jerusalem:20260620T090000
+SUMMARY:⚽ תוניסיה - יפן | כאן BOX
+DESCRIPTION:שלב הבתים | בית 6\n20 יוני 2026\, שעה 07:00\nמונטריי\, BBVA\nשידור חי בכאן BOX
+LOCATION:מונטריי\, BBVA
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:kan-wc2026-match-34@kan.org.il
+DTSTAMP:20260312T200109
+DTSTART;TZID=Asia/Jerusalem:20260620T200000
+DTEND;TZID=Asia/Jerusalem:20260620T220000
+SUMMARY:⚽ הולנד - פלייאוף אופ"א 2 | כאן 11
+DESCRIPTION:שלב הבתים | בית 6\n20 יוני 2026\, שעה 20:00\nיוסטון\, NRG\nשידור חי בכאן 11
+LOCATION:יוסטון\, NRG
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:kan-wc2026-match-35@kan.org.il
+DTSTAMP:20260312T200109
+DTSTART;TZID=Asia/Jerusalem:20260620T230000
+DTEND;TZID=Asia/Jerusalem:20260621T010000
+SUMMARY:⚽ גרמניה - חוף השנהב | כאן 11
+DESCRIPTION:שלב הבתים | בית 5\n20 יוני 2026\, שעה 23:00\nטורונטו\, בי.אם.או פילד\nשידור חי בכאן 11
+LOCATION:טורונטו\, בי.אם.או פילד
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:kan-wc2026-match-36@kan.org.il
+DTSTAMP:20260312T200109
+DTSTART;TZID=Asia/Jerusalem:20260621T030000
+DTEND;TZID=Asia/Jerusalem:20260621T050000
+SUMMARY:⚽ אקוודור - קוראסאו | כאן BOX
+DESCRIPTION:שלב הבתים | בית 5\n21 יוני 2026\, שעה 03:00\nקנזס סיטי\, ארוהד\nשידור חי בכאן BOX
+LOCATION:קנזס סיטי\, ארוהד
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:kan-wc2026-match-37@kan.org.il
+DTSTAMP:20260312T200109
+DTSTART;TZID=Asia/Jerusalem:20260621T190000
+DTEND;TZID=Asia/Jerusalem:20260621T210000
+SUMMARY:⚽ ספרד - ערב הסעודית | כאן 11
+DESCRIPTION:שלב הבתים | בית 8\n21 יוני 2026\, שעה 19:00\nאטלנטה\, מרצדס בנץ\nשידור חי בכאן 11
+LOCATION:אטלנטה\, מרצדס בנץ
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:kan-wc2026-match-38@kan.org.il
+DTSTAMP:20260312T200109
+DTSTART;TZID=Asia/Jerusalem:20260621T220000
+DTEND;TZID=Asia/Jerusalem:20260622T000000
+SUMMARY:⚽ בלגיה - איראן | כאן 11
+DESCRIPTION:שלב הבתים | בית 7\n21 יוני 2026\, שעה 22:00\nלוס אנג'לס\, סו-פיי\nשידור חי בכאן 11
+LOCATION:לוס אנג'לס\, סו-פיי
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:kan-wc2026-match-39@kan.org.il
+DTSTAMP:20260312T200109
+DTSTART;TZID=Asia/Jerusalem:20260622T010000
+DTEND;TZID=Asia/Jerusalem:20260622T030000
+SUMMARY:⚽ אורוגוואי - כף ורדה | כאן BOX
+DESCRIPTION:שלב הבתים | בית 8\n22 יוני 2026\, שעה 01:00\nמיאמי\, הארד רוק\nשידור חי בכאן BOX
+LOCATION:מיאמי\, הארד רוק
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:kan-wc2026-match-40@kan.org.il
+DTSTAMP:20260312T200109
+DTSTART;TZID=Asia/Jerusalem:20260622T040000
+DTEND;TZID=Asia/Jerusalem:20260622T060000
+SUMMARY:⚽ ניו זילנד - מצרים | כאן BOX
+DESCRIPTION:שלב הבתים | בית 7\n22 יוני 2026\, שעה 04:00\nונקובר\, בי.סי פלייס\nשידור חי בכאן BOX
+LOCATION:ונקובר\, בי.סי פלייס
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:kan-wc2026-match-41@kan.org.il
+DTSTAMP:20260312T200109
+DTSTART;TZID=Asia/Jerusalem:20260622T200000
+DTEND;TZID=Asia/Jerusalem:20260622T220000
+SUMMARY:⚽ ארגנטינה - אוסטריה | כאן 11
+DESCRIPTION:שלב הבתים | בית 10\n22 יוני 2026\, שעה 20:00\nדאלאס\, AT&T\nשידור חי בכאן 11
+LOCATION:דאלאס\, AT&T
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:kan-wc2026-match-42@kan.org.il
+DTSTAMP:20260312T200109
+DTSTART;TZID=Asia/Jerusalem:20260623T000000
+DTEND;TZID=Asia/Jerusalem:20260623T020000
+SUMMARY:⚽ צרפת - פלייאוף בין יבשתי 2 | כאן 11
+DESCRIPTION:שלב הבתים | בית 9\n23 יוני 2026\, שעה 00:00\nפילדלפיה\, לינקולן\nשידור חי בכאן 11
+LOCATION:פילדלפיה\, לינקולן
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:kan-wc2026-match-43@kan.org.il
+DTSTAMP:20260312T200109
+DTSTART;TZID=Asia/Jerusalem:20260623T030000
+DTEND;TZID=Asia/Jerusalem:20260623T050000
+SUMMARY:⚽ נורווגיה - סנגל | כאן BOX
+DESCRIPTION:שלב הבתים | בית 9\n23 יוני 2026\, שעה 03:00\nניו יורק - ניו ג'רזי\, מטלייף\nשידור חי בכאן BOX
+LOCATION:ניו יורק - ניו ג'רזי\, מטלייף
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:kan-wc2026-match-44@kan.org.il
+DTSTAMP:20260312T200109
+DTSTART;TZID=Asia/Jerusalem:20260623T060000
+DTEND;TZID=Asia/Jerusalem:20260623T080000
+SUMMARY:⚽ ירדן - אלג'יריה | כאן BOX
+DESCRIPTION:שלב הבתים | בית 10\n23 יוני 2026\, שעה 06:00\nסן פרנסיסקו\, ליוואיס\nשידור חי בכאן BOX
+LOCATION:סן פרנסיסקו\, ליוואיס
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:kan-wc2026-match-45@kan.org.il
+DTSTAMP:20260312T200109
+DTSTART;TZID=Asia/Jerusalem:20260623T200000
+DTEND;TZID=Asia/Jerusalem:20260623T220000
+SUMMARY:⚽ פורטוגל - אוזבקיסטן | כאן 11
+DESCRIPTION:שלב הבתים | בית 12\n23 יוני 2026\, שעה 20:00\nיוסטון\, NRG\nשידור חי בכאן 11
+LOCATION:יוסטון\, NRG
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:kan-wc2026-match-46@kan.org.il
+DTSTAMP:20260312T200109
+DTSTART;TZID=Asia/Jerusalem:20260623T230000
+DTEND;TZID=Asia/Jerusalem:20260624T010000
+SUMMARY:⚽ אנגליה - גאנה | כאן 11
+DESCRIPTION:שלב הבתים | בית 11\n23 יוני 2026\, שעה 23:00\nבוסטון\, ג'ילט\nשידור חי בכאן 11
+LOCATION:בוסטון\, ג'ילט
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:kan-wc2026-match-47@kan.org.il
+DTSTAMP:20260312T200109
+DTSTART;TZID=Asia/Jerusalem:20260624T020000
+DTEND;TZID=Asia/Jerusalem:20260624T040000
+SUMMARY:⚽ פנמה - קרואטיה | כאן BOX
+DESCRIPTION:שלב הבתים | בית 11\n24 יוני 2026\, שעה 02:00\nטורונטו\, בי.אם.או פילד\nשידור חי בכאן BOX
+LOCATION:טורונטו\, בי.אם.או פילד
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:kan-wc2026-match-48@kan.org.il
+DTSTAMP:20260312T200109
+DTSTART;TZID=Asia/Jerusalem:20260624T050000
+DTEND;TZID=Asia/Jerusalem:20260624T070000
+SUMMARY:⚽ קולומביה - פלייאוף בין יבשתי 1 | כאן BOX
+DESCRIPTION:שלב הבתים | בית 12\n24 יוני 2026\, שעה 05:00\nגוואדלחרה\, אקרון\nשידור חי בכאן BOX
+LOCATION:גוואדלחרה\, אקרון
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:kan-wc2026-match-49@kan.org.il
+DTSTAMP:20260312T200109
+DTSTART;TZID=Asia/Jerusalem:20260624T220000
+DTEND;TZID=Asia/Jerusalem:20260625T000000
+SUMMARY:⚽ שווייץ - קנדה | כאן 11
+DESCRIPTION:שלב הבתים | בית 2\n24 יוני 2026\, שעה 22:00\nונקובר\, בי.סי פלייס\nשידור חי בכאן 11
+LOCATION:ונקובר\, בי.סי פלייס
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:kan-wc2026-match-50@kan.org.il
+DTSTAMP:20260312T200109
+DTSTART;TZID=Asia/Jerusalem:20260624T220000
+DTEND;TZID=Asia/Jerusalem:20260625T000000
+SUMMARY:⚽ פלייאוף אופ"א 1 - קטר | כאן BOX
+DESCRIPTION:שלב הבתים | בית 2\n24 יוני 2026\, שעה 22:00\nסיאטל\, לומן\nשידור חי בכאן BOX
+LOCATION:סיאטל\, לומן
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:kan-wc2026-match-51@kan.org.il
+DTSTAMP:20260312T200109
+DTSTART;TZID=Asia/Jerusalem:20260625T010000
+DTEND;TZID=Asia/Jerusalem:20260625T030000
+SUMMARY:⚽ סקוטלנד - ברזיל | כאן 11
+DESCRIPTION:שלב הבתים | בית 3\n25 יוני 2026\, שעה 01:00\nמיאמי\, הארד רוק\nשידור חי בכאן 11
+LOCATION:מיאמי\, הארד רוק
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:kan-wc2026-match-52@kan.org.il
+DTSTAMP:20260312T200109
+DTSTART;TZID=Asia/Jerusalem:20260625T010000
+DTEND;TZID=Asia/Jerusalem:20260625T030000
+SUMMARY:⚽ מרוקו - האיטי | כאן BOX
+DESCRIPTION:שלב הבתים | בית 3\n25 יוני 2026\, שעה 01:00\nאטלנטה\, מרצדס בנץ\nשידור חי בכאן BOX
+LOCATION:אטלנטה\, מרצדס בנץ
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:kan-wc2026-match-53@kan.org.il
+DTSTAMP:20260312T200109
+DTSTART;TZID=Asia/Jerusalem:20260625T040000
+DTEND;TZID=Asia/Jerusalem:20260625T060000
+SUMMARY:⚽ פלייאוף אופ"א 4 - מקסיקו | כאן BOX
+DESCRIPTION:שלב הבתים | בית 1\n25 יוני 2026\, שעה 04:00\nמקסיקו סיטי\, אצטקה\nשידור חי בכאן BOX
+LOCATION:מקסיקו סיטי\, אצטקה
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:kan-wc2026-match-54@kan.org.il
+DTSTAMP:20260312T200109
+DTSTART;TZID=Asia/Jerusalem:20260625T040000
+DTEND;TZID=Asia/Jerusalem:20260625T060000
+SUMMARY:⚽ דרום אפריקה - קוריאה הדרומית | כאן BOX
+DESCRIPTION:שלב הבתים | בית 1\n25 יוני 2026\, שעה 04:00\nמונטריי\, BBVA\nשידור חי בכאן BOX
+LOCATION:מונטריי\, BBVA
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:kan-wc2026-match-55@kan.org.il
+DTSTAMP:20260312T200109
+DTSTART;TZID=Asia/Jerusalem:20260625T230000
+DTEND;TZID=Asia/Jerusalem:20260626T010000
+SUMMARY:⚽ קוראסאו - חוף השנהב | כאן BOX
+DESCRIPTION:שלב הבתים | בית 5\n25 יוני 2026\, שעה 23:00\nפילדלפיה\, לינקולן\nשידור חי בכאן BOX
+LOCATION:פילדלפיה\, לינקולן
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:kan-wc2026-match-56@kan.org.il
+DTSTAMP:20260312T200109
+DTSTART;TZID=Asia/Jerusalem:20260625T230000
+DTEND;TZID=Asia/Jerusalem:20260626T010000
+SUMMARY:⚽ אקוודור - גרמניה | כאן 11
+DESCRIPTION:שלב הבתים | בית 5\n25 יוני 2026\, שעה 23:00\nניו יורק - ניו ג'רזי\, מטלייף\nשידור חי בכאן 11
+LOCATION:ניו יורק - ניו ג'רזי\, מטלייף
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:kan-wc2026-match-57@kan.org.il
+DTSTAMP:20260312T200109
+DTSTART;TZID=Asia/Jerusalem:20260626T020000
+DTEND;TZID=Asia/Jerusalem:20260626T040000
+SUMMARY:⚽ יפן - פלייאוף אופ"א 2 | כאן BOX
+DESCRIPTION:שלב הבתים | בית 6\n26 יוני 2026\, שעה 02:00\nדאלאס\, AT&T\nשידור חי בכאן BOX
+LOCATION:דאלאס\, AT&T
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:kan-wc2026-match-58@kan.org.il
+DTSTAMP:20260312T200109
+DTSTART;TZID=Asia/Jerusalem:20260626T020000
+DTEND;TZID=Asia/Jerusalem:20260626T040000
+SUMMARY:⚽ תוניסיה - הולנד | כאן BOX
+DESCRIPTION:שלב הבתים | בית 6\n26 יוני 2026\, שעה 02:00\nקנזס סיטי\, ארוהד\nשידור חי בכאן BOX
+LOCATION:קנזס סיטי\, ארוהד
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:kan-wc2026-match-59@kan.org.il
+DTSTAMP:20260312T200109
+DTSTART;TZID=Asia/Jerusalem:20260626T050000
+DTEND;TZID=Asia/Jerusalem:20260626T070000
+SUMMARY:⚽ פלייאוף אופ"א 3 - ארצות הברית | כאן BOX
+DESCRIPTION:שלב הבתים | בית 4\n26 יוני 2026\, שעה 05:00\nלוס אנג'לס\, סו-פיי\nשידור חי בכאן BOX
+LOCATION:לוס אנג'לס\, סו-פיי
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:kan-wc2026-match-60@kan.org.il
+DTSTAMP:20260312T200109
+DTSTART;TZID=Asia/Jerusalem:20260626T050000
+DTEND;TZID=Asia/Jerusalem:20260626T070000
+SUMMARY:⚽ פרגוואי - אוסטרליה | כאן BOX
+DESCRIPTION:שלב הבתים | בית 4\n26 יוני 2026\, שעה 05:00\nסן פרנסיסקו\, ליוואיס\nשידור חי בכאן BOX
+LOCATION:סן פרנסיסקו\, ליוואיס
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:kan-wc2026-match-61@kan.org.il
+DTSTAMP:20260312T200109
+DTSTART;TZID=Asia/Jerusalem:20260626T220000
+DTEND;TZID=Asia/Jerusalem:20260627T000000
+SUMMARY:⚽ נורווגיה - צרפת | כאן 11
+DESCRIPTION:שלב הבתים | בית 9\n26 יוני 2026\, שעה 22:00\nבוסטון\, ג'ילט\nשידור חי בכאן 11
+LOCATION:בוסטון\, ג'ילט
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:kan-wc2026-match-62@kan.org.il
+DTSTAMP:20260312T200109
+DTSTART;TZID=Asia/Jerusalem:20260626T220000
+DTEND;TZID=Asia/Jerusalem:20260627T000000
+SUMMARY:⚽ סנגל - פלייאוף בין יבשתי 2 | כאן BOX
+DESCRIPTION:שלב הבתים | בית 9\n26 יוני 2026\, שעה 22:00\nטורונטו\, בי.אם.או פילד\nשידור חי בכאן BOX
+LOCATION:טורונטו\, בי.אם.או פילד
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:kan-wc2026-match-63@kan.org.il
+DTSTAMP:20260312T200109
+DTSTART;TZID=Asia/Jerusalem:20260627T030000
+DTEND;TZID=Asia/Jerusalem:20260627T050000
+SUMMARY:⚽ כף ורדה - ערב הסעודית | כאן BOX
+DESCRIPTION:שלב הבתים | בית 8\n27 יוני 2026\, שעה 03:00\nיוסטון\, NRG\nשידור חי בכאן BOX
+LOCATION:יוסטון\, NRG
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:kan-wc2026-match-64@kan.org.il
+DTSTAMP:20260312T200109
+DTSTART;TZID=Asia/Jerusalem:20260627T030000
+DTEND;TZID=Asia/Jerusalem:20260627T050000
+SUMMARY:⚽ אורוגוואי - ספרד | כאן 11
+DESCRIPTION:שלב הבתים | בית 8\n27 יוני 2026\, שעה 03:00\nגוואדלחרה\, אקרון\nשידור חי בכאן 11
+LOCATION:גוואדלחרה\, אקרון
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:kan-wc2026-match-65@kan.org.il
+DTSTAMP:20260312T200109
+DTSTART;TZID=Asia/Jerusalem:20260627T060000
+DTEND;TZID=Asia/Jerusalem:20260627T080000
+SUMMARY:⚽ מצרים - איראן | כאן BOX
+DESCRIPTION:שלב הבתים | בית 7\n27 יוני 2026\, שעה 06:00\nסיאטל\, לומן\nשידור חי בכאן BOX
+LOCATION:סיאטל\, לומן
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:kan-wc2026-match-66@kan.org.il
+DTSTAMP:20260312T200109
+DTSTART;TZID=Asia/Jerusalem:20260627T060000
+DTEND;TZID=Asia/Jerusalem:20260627T080000
+SUMMARY:⚽ ניו זילנד - בלגיה | כאן BOX
+DESCRIPTION:שלב הבתים | בית 7\n27 יוני 2026\, שעה 06:00\nונקובר\, בי.סי פלייס\nשידור חי בכאן BOX
+LOCATION:ונקובר\, בי.סי פלייס
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:kan-wc2026-match-67@kan.org.il
+DTSTAMP:20260312T200109
+DTSTART;TZID=Asia/Jerusalem:20260628T000000
+DTEND;TZID=Asia/Jerusalem:20260628T020000
+SUMMARY:⚽ פנמה - אנגליה | כאן 11
+DESCRIPTION:שלב הבתים | בית 11\n28 יוני 2026\, שעה 00:00\nניו יורק - ניו ג'רזי\, מטלייף\nשידור חי בכאן 11
+LOCATION:ניו יורק - ניו ג'רזי\, מטלייף
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:kan-wc2026-match-68@kan.org.il
+DTSTAMP:20260312T200109
+DTSTART;TZID=Asia/Jerusalem:20260628T000000
+DTEND;TZID=Asia/Jerusalem:20260628T020000
+SUMMARY:⚽ קרואטיה - גאנה | כאן BOX
+DESCRIPTION:שלב הבתים | בית 11\n28 יוני 2026\, שעה 00:00\nפילדלפיה\, לינקולן\nשידור חי בכאן BOX
+LOCATION:פילדלפיה\, לינקולן
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:kan-wc2026-match-69@kan.org.il
+DTSTAMP:20260312T200109
+DTSTART;TZID=Asia/Jerusalem:20260628T023000
+DTEND;TZID=Asia/Jerusalem:20260628T043000
+SUMMARY:⚽ קולומביה - פורטוגל | כאן 11
+DESCRIPTION:שלב הבתים | בית 12\n28 יוני 2026\, שעה 02:30\nמיאמי\, הארד רוק\nשידור חי בכאן 11
+LOCATION:מיאמי\, הארד רוק
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:kan-wc2026-match-70@kan.org.il
+DTSTAMP:20260312T200109
+DTSTART;TZID=Asia/Jerusalem:20260628T023000
+DTEND;TZID=Asia/Jerusalem:20260628T043000
+SUMMARY:⚽ פלייאוף בין יבשתי 1 - אוזבקיסטן | כאן BOX
+DESCRIPTION:שלב הבתים | בית 12\n28 יוני 2026\, שעה 02:30\nאטלנטה\, מרצדס בנץ\nשידור חי בכאן BOX
+LOCATION:אטלנטה\, מרצדס בנץ
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:kan-wc2026-match-71@kan.org.il
+DTSTAMP:20260312T200109
+DTSTART;TZID=Asia/Jerusalem:20260628T050000
+DTEND;TZID=Asia/Jerusalem:20260628T070000
+SUMMARY:⚽ אלג'יריה - אוסטריה | כאן BOX
+DESCRIPTION:שלב הבתים | בית 10\n28 יוני 2026\, שעה 05:00\nקנזס סיטי\, ארוהד\nשידור חי בכאן BOX
+LOCATION:קנזס סיטי\, ארוהד
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:kan-wc2026-match-72@kan.org.il
+DTSTAMP:20260312T200109
+DTSTART;TZID=Asia/Jerusalem:20260628T050000
+DTEND;TZID=Asia/Jerusalem:20260628T070000
+SUMMARY:⚽ ירדן - ארגנטינה | כאן 11
+DESCRIPTION:שלב הבתים | בית 10\n28 יוני 2026\, שעה 05:00\nדאלאס\, AT&T\nשידור חי בכאן 11
+LOCATION:דאלאס\, AT&T
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:kan-wc2026-match-73@kan.org.il
+DTSTAMP:20260312T200109
+DTSTART;TZID=Asia/Jerusalem:20260629T200000
+DTEND;TZID=Asia/Jerusalem:20260629T220000
+SUMMARY:⚽ מנצחת בית 1 - סגנית בית 2 | כאן 11
+DESCRIPTION:32 האחרונות\n29 יוני 2026\, שעה 20:00\nיוסטון\, NRG\nשידור חי בכאן 11
+LOCATION:יוסטון\, NRG
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:kan-wc2026-match-74@kan.org.il
+DTSTAMP:20260312T200109
+DTSTART;TZID=Asia/Jerusalem:20260629T220000
+DTEND;TZID=Asia/Jerusalem:20260630T000000
+SUMMARY:⚽ מנצחת בית 1 - סגנית בית 2 | כאן 11
+DESCRIPTION:32 האחרונות\n29 יוני 2026\, שעה 22:00\nלוס אנג'לס\, סו-פיי\nשידור חי בכאן 11
+LOCATION:לוס אנג'לס\, סו-פיי
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:kan-wc2026-match-75@kan.org.il
+DTSTAMP:20260312T200109
+DTSTART;TZID=Asia/Jerusalem:20260629T233000
+DTEND;TZID=Asia/Jerusalem:20260630T013000
+SUMMARY:⚽ מנצחת בית 1 - שלישית בית 3 | כאן 11
+DESCRIPTION:32 האחרונות\n29 יוני 2026\, שעה 23:30\nבוסטון\, ג'ילט\nשידור חי בכאן 11
+LOCATION:בוסטון\, ג'ילט
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:kan-wc2026-match-76@kan.org.il
+DTSTAMP:20260312T200109
+DTSTART;TZID=Asia/Jerusalem:20260630T040000
+DTEND;TZID=Asia/Jerusalem:20260630T060000
+SUMMARY:⚽ מנצחת בית 1 - סגנית בית 2 | כאן 11
+DESCRIPTION:32 האחרונות\n30 יוני 2026\, שעה 04:00\nמונטריי\, BBVA\nשידור חי בכאן 11
+LOCATION:מונטריי\, BBVA
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:kan-wc2026-match-77@kan.org.il
+DTSTAMP:20260312T200109
+DTSTART;TZID=Asia/Jerusalem:20260630T200000
+DTEND;TZID=Asia/Jerusalem:20260630T220000
+SUMMARY:⚽ סגנית בית 2 - סגנית בית 2 | כאן 11
+DESCRIPTION:32 האחרונות\n30 יוני 2026\, שעה 20:00\nדאלאס\, AT&T\nשידור חי בכאן 11
+LOCATION:דאלאס\, AT&T
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:kan-wc2026-match-78@kan.org.il
+DTSTAMP:20260312T200109
+DTSTART;TZID=Asia/Jerusalem:20260701T000000
+DTEND;TZID=Asia/Jerusalem:20260701T020000
+SUMMARY:⚽ מנצחת בית 1 - שלישית בית 3 | כאן 11
+DESCRIPTION:32 האחרונות\n1 יולי 2026\, שעה 00:00\nניו יורק - ניו ג'רזי\, מטלייף\nשידור חי בכאן 11
+LOCATION:ניו יורק - ניו ג'רזי\, מטלייף
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:kan-wc2026-match-79@kan.org.il
+DTSTAMP:20260312T200109
+DTSTART;TZID=Asia/Jerusalem:20260701T040000
+DTEND;TZID=Asia/Jerusalem:20260701T060000
+SUMMARY:⚽ מנצחת בית 1 - שלישית בית 3 | כאן BOX
+DESCRIPTION:32 האחרונות\n1 יולי 2026\, שעה 04:00\nמקסיקו סיטי\, אצטקה\nשידור חי בכאן BOX
+LOCATION:מקסיקו סיטי\, אצטקה
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:kan-wc2026-match-80@kan.org.il
+DTSTAMP:20260312T200109
+DTSTART;TZID=Asia/Jerusalem:20260701T190000
+DTEND;TZID=Asia/Jerusalem:20260701T210000
+SUMMARY:⚽ מנצחת בית 1 - שלישית בית 3 | כאן 11
+DESCRIPTION:32 האחרונות\n1 יולי 2026\, שעה 19:00\nאטלנטה\, מרצדס בנץ\nשידור חי בכאן 11
+LOCATION:אטלנטה\, מרצדס בנץ
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:kan-wc2026-match-81@kan.org.il
+DTSTAMP:20260312T200109
+DTSTART;TZID=Asia/Jerusalem:20260701T230000
+DTEND;TZID=Asia/Jerusalem:20260702T010000
+SUMMARY:⚽ מנצחת בית 1 - שלישית בית 3 | כאן 11
+DESCRIPTION:32 האחרונות\n1 יולי 2026\, שעה 23:00\nסיאטל\, לומן\nשידור חי בכאן 11
+LOCATION:סיאטל\, לומן
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:kan-wc2026-match-82@kan.org.il
+DTSTAMP:20260312T200109
+DTSTART;TZID=Asia/Jerusalem:20260702T030000
+DTEND;TZID=Asia/Jerusalem:20260702T050000
+SUMMARY:⚽ מנצחת בית 1 - שלישית בית 3 | כאן BOX
+DESCRIPTION:32 האחרונות\n2 יולי 2026\, שעה 03:00\nסן פרנסיסקו\, ליוואיס\nשידור חי בכאן BOX
+LOCATION:סן פרנסיסקו\, ליוואיס
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:kan-wc2026-match-83@kan.org.il
+DTSTAMP:20260312T200109
+DTSTART;TZID=Asia/Jerusalem:20260702T220000
+DTEND;TZID=Asia/Jerusalem:20260703T000000
+SUMMARY:⚽ מנצחת בית 1 - סגנית בית 2 | כאן 11
+DESCRIPTION:32 האחרונות\n2 יולי 2026\, שעה 22:00\nלוס אנג'לס\, סו-פיי\nשידור חי בכאן 11
+LOCATION:לוס אנג'לס\, סו-פיי
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:kan-wc2026-match-84@kan.org.il
+DTSTAMP:20260312T200109
+DTSTART;TZID=Asia/Jerusalem:20260703T020000
+DTEND;TZID=Asia/Jerusalem:20260703T040000
+SUMMARY:⚽ סגנית בית 2 - סגנית בית 2 | כאן 11
+DESCRIPTION:32 האחרונות\n3 יולי 2026\, שעה 02:00\nטורונטו\, בי.אם.או פילד\nשידור חי בכאן 11
+LOCATION:טורונטו\, בי.אם.או פילד
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:kan-wc2026-match-85@kan.org.il
+DTSTAMP:20260312T200109
+DTSTART;TZID=Asia/Jerusalem:20260703T060000
+DTEND;TZID=Asia/Jerusalem:20260703T080000
+SUMMARY:⚽ מנצחת בית 1 - שלישית בית 3 | כאן BOX
+DESCRIPTION:32 האחרונות\n3 יולי 2026\, שעה 06:00\nונקובר\, בי.סי פלייס\nשידור חי בכאן BOX
+LOCATION:ונקובר\, בי.סי פלייס
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:kan-wc2026-match-86@kan.org.il
+DTSTAMP:20260312T200109
+DTSTART;TZID=Asia/Jerusalem:20260703T210000
+DTEND;TZID=Asia/Jerusalem:20260703T230000
+SUMMARY:⚽ סגנית בית 2 - סגנית בית 2 | כאן 11
+DESCRIPTION:32 האחרונות\n3 יולי 2026\, שעה 21:00\nדאלאס\, AT&T\nשידור חי בכאן 11
+LOCATION:דאלאס\, AT&T
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:kan-wc2026-match-87@kan.org.il
+DTSTAMP:20260312T200109
+DTSTART;TZID=Asia/Jerusalem:20260704T010000
+DTEND;TZID=Asia/Jerusalem:20260704T030000
+SUMMARY:⚽ מנצחת בית 1 - סגנית בית 2 | כאן 11
+DESCRIPTION:32 האחרונות\n4 יולי 2026\, שעה 01:00\nמיאמי\, הארד רוק\nשידור חי בכאן 11
+LOCATION:מיאמי\, הארד רוק
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:kan-wc2026-match-88@kan.org.il
+DTSTAMP:20260312T200109
+DTSTART;TZID=Asia/Jerusalem:20260704T043000
+DTEND;TZID=Asia/Jerusalem:20260704T063000
+SUMMARY:⚽ מנצחת בית 1 - שלישית בית 3 | כאן 11
+DESCRIPTION:32 האחרונות\n4 יולי 2026\, שעה 04:30\nקנזס סיטי\, ארוהד\nשידור חי בכאן 11
+LOCATION:קנזס סיטי\, ארוהד
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:kan-wc2026-match-89@kan.org.il
+DTSTAMP:20260312T200109
+DTSTART;TZID=Asia/Jerusalem:20260704T200000
+DTEND;TZID=Asia/Jerusalem:20260704T220000
+SUMMARY:⚽ מנצחת משחק 73 - מנצחת משחק 75 | כאן 11
+DESCRIPTION:שמינית גמר\n4 יולי 2026\, שעה 20:00\nיוסטון\, NRG\nשידור חי בכאן 11
+LOCATION:יוסטון\, NRG
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:kan-wc2026-match-90@kan.org.il
+DTSTAMP:20260312T200109
+DTSTART;TZID=Asia/Jerusalem:20260705T000000
+DTEND;TZID=Asia/Jerusalem:20260705T020000
+SUMMARY:⚽ מנצחת משחק 74 - מנצחת משחק 77 | כאן 11
+DESCRIPTION:שמינית גמר\n5 יולי 2026\, שעה 00:00\nפילדלפיה\, לינקולן\nשידור חי בכאן 11
+LOCATION:פילדלפיה\, לינקולן
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:kan-wc2026-match-91@kan.org.il
+DTSTAMP:20260312T200109
+DTSTART;TZID=Asia/Jerusalem:20260705T230000
+DTEND;TZID=Asia/Jerusalem:20260706T010000
+SUMMARY:⚽ מנצחת משחק 76 - מנצחת משחק 78 | כאן 11
+DESCRIPTION:שמינית גמר\n5 יולי 2026\, שעה 23:00\nניו יורק - ניו ג'רזי\, מטלייף\nשידור חי בכאן 11
+LOCATION:ניו יורק - ניו ג'רזי\, מטלייף
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:kan-wc2026-match-92@kan.org.il
+DTSTAMP:20260312T200109
+DTSTART;TZID=Asia/Jerusalem:20260706T030000
+DTEND;TZID=Asia/Jerusalem:20260706T050000
+SUMMARY:⚽ מנצחת משחק 79 - מנצחת משחק 80 | כאן 11
+DESCRIPTION:שמינית גמר\n6 יולי 2026\, שעה 03:00\nמקסיקו סיטי\, אצטקה\nשידור חי בכאן 11
+LOCATION:מקסיקו סיטי\, אצטקה
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:kan-wc2026-match-93@kan.org.il
+DTSTAMP:20260312T200109
+DTSTART;TZID=Asia/Jerusalem:20260706T220000
+DTEND;TZID=Asia/Jerusalem:20260707T000000
+SUMMARY:⚽ מנצחת משחק 83 - מנצחת משחק 84 | כאן 11
+DESCRIPTION:שמינית גמר\n6 יולי 2026\, שעה 22:00\nדאלאס\, AT&T\nשידור חי בכאן 11
+LOCATION:דאלאס\, AT&T
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:kan-wc2026-match-94@kan.org.il
+DTSTAMP:20260312T200109
+DTSTART;TZID=Asia/Jerusalem:20260707T030000
+DTEND;TZID=Asia/Jerusalem:20260707T050000
+SUMMARY:⚽ מנצחת משחק 81 - מנצחת משחק 82 | כאן 11
+DESCRIPTION:שמינית גמר\n7 יולי 2026\, שעה 03:00\nסיאטל\, לומן\nשידור חי בכאן 11
+LOCATION:סיאטל\, לומן
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:kan-wc2026-match-95@kan.org.il
+DTSTAMP:20260312T200109
+DTSTART;TZID=Asia/Jerusalem:20260707T190000
+DTEND;TZID=Asia/Jerusalem:20260707T210000
+SUMMARY:⚽ מנצחת משחק 86 - מנצחת משחק 88 | כאן 11
+DESCRIPTION:שמינית גמר\n7 יולי 2026\, שעה 19:00\nאטלנטה\, מרצדס בנץ\nשידור חי בכאן 11
+LOCATION:אטלנטה\, מרצדס בנץ
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:kan-wc2026-match-96@kan.org.il
+DTSTAMP:20260312T200109
+DTSTART;TZID=Asia/Jerusalem:20260707T230000
+DTEND;TZID=Asia/Jerusalem:20260708T010000
+SUMMARY:⚽ מנצחת משחק 85 - מנצחת משחק 87 | כאן 11
+DESCRIPTION:שמינית גמר\n7 יולי 2026\, שעה 23:00\nונקובר\, בי.סי פלייס\nשידור חי בכאן 11
+LOCATION:ונקובר\, בי.סי פלייס
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:kan-wc2026-match-97@kan.org.il
+DTSTAMP:20260312T200109
+DTSTART;TZID=Asia/Jerusalem:20260709T230000
+DTEND;TZID=Asia/Jerusalem:20260710T010000
+SUMMARY:⚽ מנצחת משחק 89 - מנצחת משחק 90 | כאן 11
+DESCRIPTION:רבע גמר\n9 יולי 2026\, שעה 23:00\nבוסטון\, ג'ילט\nשידור חי בכאן 11
+LOCATION:בוסטון\, ג'ילט
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:kan-wc2026-match-98@kan.org.il
+DTSTAMP:20260312T200109
+DTSTART;TZID=Asia/Jerusalem:20260710T220000
+DTEND;TZID=Asia/Jerusalem:20260711T000000
+SUMMARY:⚽ מנצחת משחק 93 - מנצחת משחק 94 | כאן 11
+DESCRIPTION:רבע גמר\n10 יולי 2026\, שעה 22:00\nלוס אנג'לס\, סו-פיי\nשידור חי בכאן 11
+LOCATION:לוס אנג'לס\, סו-פיי
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:kan-wc2026-match-99@kan.org.il
+DTSTAMP:20260312T200109
+DTSTART;TZID=Asia/Jerusalem:20260712T000000
+DTEND;TZID=Asia/Jerusalem:20260712T020000
+SUMMARY:⚽ מנצחת משחק 91 - מנצחת משחק 92 | כאן 11
+DESCRIPTION:רבע גמר\n12 יולי 2026\, שעה 00:00\nמיאמי\, הארד רוק\nשידור חי בכאן 11
+LOCATION:מיאמי\, הארד רוק
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:kan-wc2026-match-100@kan.org.il
+DTSTAMP:20260312T200109
+DTSTART;TZID=Asia/Jerusalem:20260712T040000
+DTEND;TZID=Asia/Jerusalem:20260712T060000
+SUMMARY:⚽ מנצחת משחק 95 - מנצחת משחק 96 | כאן 11
+DESCRIPTION:רבע גמר\n12 יולי 2026\, שעה 04:00\nקנזס סיטי\, ארוהד\nשידור חי בכאן 11
+LOCATION:קנזס סיטי\, ארוהד
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:kan-wc2026-match-101@kan.org.il
+DTSTAMP:20260312T200109
+DTSTART;TZID=Asia/Jerusalem:20260714T220000
+DTEND;TZID=Asia/Jerusalem:20260715T000000
+SUMMARY:⚽ מנצחת משחק 97 - מנצחת משחק 98 | כאן 11
+DESCRIPTION:חצי גמר\n14 יולי 2026\, שעה 22:00\nדאלאס\, AT&T\nשידור חי בכאן 11
+LOCATION:דאלאס\, AT&T
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:kan-wc2026-match-102@kan.org.il
+DTSTAMP:20260312T200109
+DTSTART;TZID=Asia/Jerusalem:20260715T220000
+DTEND;TZID=Asia/Jerusalem:20260716T000000
+SUMMARY:⚽ מנצחת משחק 99 - מנצחת משחק 100 | כאן 11
+DESCRIPTION:חצי גמר\n15 יולי 2026\, שעה 22:00\nאטלנטה\, מרצדס בנץ\nשידור חי בכאן 11
+LOCATION:אטלנטה\, מרצדס בנץ
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:kan-wc2026-match-103@kan.org.il
+DTSTAMP:20260312T200109
+DTSTART;TZID=Asia/Jerusalem:20260719T000000
+DTEND;TZID=Asia/Jerusalem:20260719T020000
+SUMMARY:⚽ מפסידת משחק 101 - מפסידת משחק 102 | כאן BOX
+DESCRIPTION:מקום 3\n19 יולי 2026\, שעה 00:00\nמיאמי\, הארד רוק\nשידור חי בכאן BOX
+LOCATION:מיאמי\, הארד רוק
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:kan-wc2026-match-104@kan.org.il
+DTSTAMP:20260312T200109
+DTSTART;TZID=Asia/Jerusalem:20260719T220000
+DTEND;TZID=Asia/Jerusalem:20260720T000000
+SUMMARY:⚽ מנצחת משחק 101 - מנצחת משחק 102 | כאן 11
+DESCRIPTION:גמר\n19 יולי 2026\, שעה 22:00\nניו יורק - ניו ג'רזי\, מטלייף\nשידור חי בכאן 11
+LOCATION:ניו יורק - ניו ג'רזי\, מטלייף
+STATUS:CONFIRMED
+END:VEVENT
+END:VCALENDAR
